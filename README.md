@@ -109,11 +109,9 @@ if(NUM_LOOPS>=10)    {
 ```
 
 
-
-
 ## OUTPUT
 
-
+<img width="766" height="966" alt="os 5" src="https://github.com/user-attachments/assets/a499fbce-ed24-4200-9e65-b30605aab339" />
 
 
 # RESULT:
